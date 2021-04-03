@@ -1,0 +1,4 @@
+﻿  Algoritmo21.cpp
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmos iterativos\Del 20 al 22\Practica 21\Practica 21\Algoritmo21.cpp(24,26): warning C4838: la conversión de 'unsigned int' en 'int' requiere una conversión de restricción
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmos iterativos\Del 20 al 22\Practica 21\Practica 21\Algoritmo21.cpp(27,23): warning C4018: '<': no coinciden signed/unsigned
+  Practica 21.vcxproj -> d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmos iterativos\Del 20 al 22\Practica 21\Debug\Practica 21.exe
