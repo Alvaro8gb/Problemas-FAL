@@ -1,0 +1,6 @@
+﻿  AlgoritmoDeLaMochilaConEstimacion.cpp
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Problema de la mochila con estimación\Problema de la mochila con estimación\AlgoritmoDeLaMochilaConEstimacion.cpp(48,20): warning C4018: '<': no coinciden signed/unsigned
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Problema de la mochila con estimación\Problema de la mochila con estimación\AlgoritmoDeLaMochilaConEstimacion.cpp(54,11): warning C4018: '<': no coinciden signed/unsigned
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Problema de la mochila con estimación\Problema de la mochila con estimación\AlgoritmoDeLaMochilaConEstimacion.cpp(60,8): warning C4018: '<': no coinciden signed/unsigned
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Problema de la mochila con estimación\Problema de la mochila con estimación\AlgoritmoDeLaMochilaConEstimacion.cpp(60,164): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  Problema de la mochila con estimación.vcxproj -> d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Problema de la mochila con estimación\Debug\Problema de la mochila con estimación.exe

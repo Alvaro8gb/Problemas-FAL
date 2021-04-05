@@ -1,0 +1,4 @@
+﻿  AlgoritmoFilomena.cpp
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Filomena\Filomena\AlgoritmoFilomena.cpp(46,20): warning C4018: '<': no coinciden signed/unsigned
+d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Filomena\Filomena\AlgoritmoFilomena.cpp(59,169): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  Filomena.vcxproj -> d:\usuarios\alvar\OneDrive\Escritorio\FAL\Practicas\Algoritmo recursivos\VueltaAtras\Filomena\Debug\Filomena.exe

@@ -1,0 +1,10 @@
+3 1
+Tipo1 Tipo2 Tipo3
+3 1
+Tipo1 Tipo1 Tipo2
+3 1
+Tipo1 Tipo1 Tipo1
+2 2
+Jug1 Jug2
+3 2
+Coche Coche Libro
